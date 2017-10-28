@@ -17,7 +17,6 @@ fn main() {
         // print the sum
         println!("{}", _num_1 + _num_2);
     }
-
 }
 
 fn read_from_stdin(val: &mut String) {
